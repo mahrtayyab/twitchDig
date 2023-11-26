@@ -33,4 +33,4 @@ user = app.get_user("kharltayyab")
 print(user)
 ```
 
-Full Documentation and Changelogs are ``Coming Soon``
+Full Documentation and Changelogs are [here](https://mahrtayyab.github.io/twicthDig_docs/)
